@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6BD22E4-1186-49C8-8A3A-6FA03450B2AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EasyBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>28CF449DF70A78D5F4B6905EDA1A63835F8DC819</key>
+		<string>https://github.com/omrimn/EducKeyboard.git</string>
+		<key>FBD7CFFF3E021524261C84ADC568E5E3F9583BC0</key>
+		<string>https://github.com/omrimn/Easy-Keyboard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EasyBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>28CF449DF70A78D5F4B6905EDA1A63835F8DC819</key>
+		<string>../..</string>
+		<key>FBD7CFFF3E021524261C84ADC568E5E3F9583BC0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/omrimn/EducKeyboard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28CF449DF70A78D5F4B6905EDA1A63835F8DC819</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBD7CFFF3E021524261C84ADC568E5E3F9583BC0</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28CF449DF70A78D5F4B6905EDA1A63835F8DC819</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EasyBoard</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "28CF449DF70A78D5F4B6905EDA1A63835F8DC819",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "28CF449DF70A78D5F4B6905EDA1A63835F8DC819" : 0,
+    "FBD7CFFF3E021524261C84ADC568E5E3F9583BC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6BD22E4-1186-49C8-8A3A-6FA03450B2AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "28CF449DF70A78D5F4B6905EDA1A63835F8DC819" : "EasyBoard",
+    "FBD7CFFF3E021524261C84ADC568E5E3F9583BC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EasyBoard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EasyBoard.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/omrimn\/EducKeyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "28CF449DF70A78D5F4B6905EDA1A63835F8DC819"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/omrimn\/Easy-Keyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBD7CFFF3E021524261C84ADC568E5E3F9583BC0"
+    }
+  ]
+}
