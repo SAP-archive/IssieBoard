@@ -1,6 +1,5 @@
 
-![SAPIssieBoard](https://github.com/SAP/IssieBoard/SAPIssieBoard.png)
-
+![SAPIssieBoard](https://github.com/SAP/IssieBoard/blob/master/SAPIssieBoard.png)
 
 # IssieBoard
 Configurable extension Keyboard application for iOS that helps in acquiring typing skills for a variety of developmental disabilities and motor skills, such as visual impairments, learning disabilities, cerebral palsy, developmental and mental disability.
@@ -33,34 +32,34 @@ You should be able to select it via the globe icon.
 If you want to configure the appearance of the keyboard, please launch the app and follow the screen shots below.
 
 
-![AllKeysColor](https://github.com/SAP/IssieBoard/AllKeysColor.png)
+![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)
 
 
-![BackgroundColor](https://github.com/SAP/IssieBoard/BackgroundColor.png)
+![BackgroundColor](https://github.com/SAP/IssieBoard/blob/master/BackgroundColor.png)
 
 
-![AllKeysTextColor](https://github.com/SAP/IssieBoard/AllKeysTextColor.png)
+![AllKeysTextColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysTextColor.png)
 
 
-![DivisionByRowOrCol](https://github.com/SAP/IssieBoard/DivisionByRowOrCol.png)
+![DivisionByRowOrCol](https://github.com/SAP/IssieBoard/blob/master/DivisionByRowOrCol.png)
 
 
-![BackspaceKeyColor](https://github.com/SAP/IssieBoard/BackspaceKeyColor.png)
+![BackspaceKeyColor](https://github.com/SAP/IssieBoard/blob/master/BackspaceKeyColor.png)
 
 
-![EnterColor](https://github.com/SAP/IssieBoard/EnterColor.png)
+![EnterColor](https://github.com/SAP/IssieBoard/blob/master/EnterColor.png)
 
 
-![OtherKeysColor](https://github.com/SAP/IssieBoard/OtherKeysColor.png)
+![OtherKeysColor](https://github.com/SAP/IssieBoard/blob/master/OtherKeysColor.png)
 
 
-![SpaceColor](https://github.com/SAP/IssieBoard/SpaceColor.png)
+![SpaceColor](https://github.com/SAP/IssieBoard/blob/master/SpaceColor.png)
 
 
-![SpecialKeys](https://github.com/SAP/IssieBoard/SpecialKeys.png)
+![SpecialKeys](https://github.com/SAP/IssieBoard/blob/master/SpecialKeys.png)
 
 
-![SpecialKeysColor](https://github.com/SAP/IssieBoard/SpecialKeysColor.png)
+![SpecialKeysColor](https://github.com/SAP/IssieBoard/blob/master/SpecialKeysColor.png)
 
 
-![VisibleKeys](https://github.com/SAP/IssieBoard/VisibleKeys.png)
+![VisibleKeys](https://github.com/SAP/IssieBoard/blob/master/VisibleKeys.png)
