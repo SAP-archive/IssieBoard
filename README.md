@@ -32,7 +32,7 @@ Now the keyboard is available from any application on your device just like any 
 You should be able to select it via the globe icon.
 
 
-If you want to configure the appearance of the keyboard, please launch the app and follow the screen shots below.
+If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots below.
 
 
 ![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)
