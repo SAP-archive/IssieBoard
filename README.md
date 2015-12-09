@@ -17,7 +17,7 @@ Configurable extension Keyboard application for iOS that helps in acquiring typi
 
 ### System Requirements
 
-The code matches Xcode 7.0 with swift 2.0 syntax.
+Support iOS 9 or later, using Swift 2.0
 
 ### How to use? 
 
