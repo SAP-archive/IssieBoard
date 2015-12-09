@@ -4,8 +4,7 @@
 
 
 # IssieBoard
-
-Configurable extension Keyboard application for iOS that helps in acquiring typing skills for a variety of developmental disabilities and motor skills, such as visual impairments, learning disabilities, cerebral palsy, developmental and mental disability.
+Configurable extension keyboard application for iOS that helps in acquiring typing skills for a variety of developmental disabilities and motor skills, such as visual impairments, learning disabilities, cerebral palsy, developmental and mental disability.
 
 
 ### Keyboard features 
