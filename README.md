@@ -24,6 +24,7 @@ Support iOS 9 or later, using Xcode 7.0 with Swift 2.0
 
 ### How to use? 
 
+
 Install the IssieBoard application to your device/simulator.
 
 Go to Settings → General → Keyboard → Keyboards → Add New Keyboard ... 
@@ -35,6 +36,7 @@ You should be able to select it via the globe icon.
 
 If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots below.
 
+* A quick guide is available in pdf inside the repository called "IssieBoardSAP Instructions.pdf".
 
 ![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)
 
