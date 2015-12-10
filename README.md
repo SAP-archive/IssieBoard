@@ -1,5 +1,5 @@
 
-![SAPIssieBoard](https://github.com/SAP/IssieBoard/blob/master/SAPIssieBoard.git)
+![SAPIssieBoard](https://github.com/SAP/IssieBoard/blob/master/SAPIssieBoard.gif)
 
 
 
