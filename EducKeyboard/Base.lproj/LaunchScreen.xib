@@ -11,25 +11,23 @@
             <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="IssieBoard" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6bf-Hz-XHI">
-                    <rect key="frame" x="0.0" y="63" width="481" height="354"/>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="SAPIssieBoardSmall.png" translatesAutoresizingMaskIntoConstraints="NO" id="xKP-pl-8lY">
+                    <rect key="frame" x="2" y="168" width="475" height="144"/>
                     <animations/>
-                    <fontDescription key="fontDescription" type="system" pointSize="85"/>
-                    <color key="textColor" red="0.99215692281723022" green="0.9960784912109375" blue="0.9960784912109375" alpha="1" colorSpace="deviceRGB"/>
-                    <nil key="highlightedColor"/>
-                </label>
+                </imageView>
             </subviews>
             <animations/>
-            <color key="backgroundColor" red="0.0" green="0.76862752437591553" blue="0.97647064924240112" alpha="1" colorSpace="deviceRGB"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
             <constraints>
-                <constraint firstItem="6bf-Hz-XHI" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="5HS-Kz-vKB"/>
-                <constraint firstItem="6bf-Hz-XHI" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="77n-06-yb3"/>
-                <constraint firstItem="6bf-Hz-XHI" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="63" id="Zsl-Ev-Zk2"/>
-                <constraint firstItem="6bf-Hz-XHI" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="aiS-VP-0ht"/>
+                <constraint firstItem="xKP-pl-8lY" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="bm9-lf-6aT"/>
+                <constraint firstItem="xKP-pl-8lY" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="rIt-Tb-85V"/>
             </constraints>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <point key="canvasLocation" x="527" y="453"/>
         </view>
     </objects>
+    <resources>
+        <image name="SAPIssieBoardSmall.png" width="475" height="144"/>
+    </resources>
 </document>
