@@ -20,6 +20,8 @@ Configurable extension keyboard application for iOS that helps in acquiring typi
 
 Support iOS 9 or later, using Xcode 7.0 with Swift 2.0
 
+* The keyboard implementation in this project is for a hebrew keyboard but can be change to any language easily.
+
 ### How to use? 
 
 Install the IssieBoard application to your device/simulator.
