@@ -34,38 +34,37 @@ Now the keyboard is available from any application on your device just like any 
 You should be able to select it via the globe icon.
 
 
-If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots below.
-
+* If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots inside the repository.
 * A quick guide is available in pdf inside the repository called "IssieBoardSAP Instructions.pdf".
 
-![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)
+<!--![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)-->
 
 
-![BackgroundColor](https://github.com/SAP/IssieBoard/blob/master/BackgroundColor.png)
+<!--![BackgroundColor](https://github.com/SAP/IssieBoard/blob/master/BackgroundColor.png)-->
 
 
-![AllKeysTextColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysTextColor.png)
+<!--![AllKeysTextColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysTextColor.png)-->
 
 
-![DivisionByRowOrCol](https://github.com/SAP/IssieBoard/blob/master/DivisionByRowOrCol.png)
+<!--![DivisionByRowOrCol](https://github.com/SAP/IssieBoard/blob/master/DivisionByRowOrCol.png)-->
 
 
-![BackspaceKeyColor](https://github.com/SAP/IssieBoard/blob/master/BackspaceKeyColor.png)
+<!--![BackspaceKeyColor](https://github.com/SAP/IssieBoard/blob/master/BackspaceKeyColor.png)-->
 
 
-![EnterColor](https://github.com/SAP/IssieBoard/blob/master/EnterColor.png)
+<!--![EnterColor](https://github.com/SAP/IssieBoard/blob/master/EnterColor.png)-->
 
 
-![OtherKeysColor](https://github.com/SAP/IssieBoard/blob/master/OtherKeysColor.png)
+<!--![OtherKeysColor](https://github.com/SAP/IssieBoard/blob/master/OtherKeysColor.png)-->
 
 
-![SpaceColor](https://github.com/SAP/IssieBoard/blob/master/SpaceColor.png)
+<!--![SpaceColor](https://github.com/SAP/IssieBoard/blob/master/SpaceColor.png)-->
 
 
-![SpecialKeys](https://github.com/SAP/IssieBoard/blob/master/SpecialKeys.png)
+<!--![SpecialKeys](https://github.com/SAP/IssieBoard/blob/master/SpecialKeys.png)-->
 
 
-![SpecialKeysColor](https://github.com/SAP/IssieBoard/blob/master/SpecialKeysColor.png)
+<!--![SpecialKeysColor](https://github.com/SAP/IssieBoard/blob/master/SpecialKeysColor.png)-->
 
 
-![VisibleKeys](https://github.com/SAP/IssieBoard/blob/master/VisibleKeys.png)
+<!--![VisibleKeys](https://github.com/SAP/IssieBoard/blob/master/VisibleKeys.png)-->
