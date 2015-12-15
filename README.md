@@ -4,38 +4,35 @@
 
 
 # IssieBoard
-Configurable extension keyboard application for iOS that helps in acquiring typing skills for a variety of developmental disabilities and motor skills, such as visual impairments, learning disabilities, cerebral palsy, developmental and mental disability.
+IssieBoard is a configurable extension keyboard application for iOS that helps users with developmental or motor skill disabilities to acquire typing skills. IssieBoard can help people who have visual impairments, learning disabilities, cerebral palsy, and developmental and mental disabilities.
 
 
-### Keyboard features 
+### Keyboard Features 
 
-1. Control the colors of all the keys in the Keyboard: 
-   letters key and text color, keyboard background, enter, space, backspace, globe, and dismiss keyboard.
-2. Divide the letters and numbers keys into 3 sections by row or column and control their colors separately.
-3. Ability to choose the visible keys of the keyboard.
-4. Select the keyboard appearance from a pre-configured templates.
-5. Select a set of special letters\numbers to configure their apperance separately. 
+1.	Control the colors of all the keys in the keyboard, and the letters and text color, including the enter, space, backspace, globe, and dismiss keyboard keys. You can also control the keyboard background color.
+2.	Divide the letters and numbers keys into three sections by row or column and control the colors of each section separately.
+3.	Choose which keyboard keys will be visible.
+4.	Select the keyboard appearance from a set of pre-configured templates.
+5.	Configure a set of special letters and/or numbers, and configure the appearance of this set separately.
 
 ### System Requirements
 
-Support iOS 9 or later, using Xcode 7.0 with Swift 2.0
-
-* The keyboard implementation in this project is for a hebrew keyboard but can be change to any language easily.
-
-### How to use? 
+•	iOS 9 or later, using Xcode 7.0 with Swift 2.0.
+•	The keyboard implementation in this project is for a Hebrew language keyboard but can be changed to any language easily.
 
 
-Install the IssieBoard application to your device/simulator.
+### How to Use IssieBoard 
 
-Go to Settings → General → Keyboard → Keyboards → Add New Keyboard ... 
+To install the IssieBoard application on your device or simulator:
 
-Just add the third-party keyboard called IssieBoard.
-Now the keyboard is available from any application on your device just like any other keyboard.
-You should be able to select it via the globe icon.
+1.	Go to Settings → General → Keyboard → Keyboards → Add New Keyboard ...
+2.	Add the third-party keyboard called IssieBoard. 
+The keyboard is now available from any application on your device just like any other keyboard. You should be able to select it via the globe icon.
+3.	If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots inside the repository.
 
 
-* If you want to configure the appearance of the keyboard, please launch the app and follow the screenshots inside the repository.
-* A quick guide is available in pdf inside the repository called "IssieBoardSAP Instructions.pdf".
+A quick guide in PDF format, "IssieBoardSAP Instructions.pdf", is available in the repository.
+
 
 <!--![AllKeysColor](https://github.com/SAP/IssieBoard/blob/master/AllKeysColor.png)-->
 
